@@ -1,7 +1,7 @@
 clc
 clear
 
-[A BB]=textread('YSA_5083_cyclic-strain.txt','%f%f')
+[A BB]=textread('file.txt','%f%f')
 data=[BB'];
 
 figure
